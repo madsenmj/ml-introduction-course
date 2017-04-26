@@ -22,7 +22,7 @@ We will spend quite a bit of time looking for public data as we get going in thi
 * Kaggle Public Datasets: https://www.kaggle.com/datasets
 * Ceasar's repository: https://github.com/caesar0301/awesome-public-datasets
 
-You will need to dig into some of these sources to find data sets that you are interested in working with. We'll talk on the first day of class about some of the possibilities.
+You will need to dig into some of these sources to find data sets that you are interested in working with.
 
 ## Course Schedule
 
