@@ -4,7 +4,7 @@ Data come from a wide variety of sources: from physical sensors, social media po
 
 ## Course Tools
 
-We will be programming in [Python](https://www.python.org/). No prior programming experience is necessary. You will learn everything you need to know as we go through the course of the semester. If you are familiar with a Python distribution, you may install the necessary packages as you go along.
+We will be programming in [Python](https://www.python.org/) with an alternative track in `R`. No prior programming experience is necessary. You will learn everything you need to know as we go through the course of the semester. If you are familiar with a Python/R distribution, you may install the necessary packages as you go along.
 
 Another alternative is to use [SageMath Cloud](https://cloud.sagemath.com) for the programming, visualization, and machine learning for this course. All of the packages and tools we use are already installed.
 
@@ -28,8 +28,8 @@ You will need to dig into some of these sources to find data sets that you are i
 
 | Class |Topic|
 |:-:| :-----|
-|01|[Big Data Ingesting: CSVs, Data frames, and Plots](/Class01/Class01.ipynb)
-|02|[ML Models: Linear regression + Validation](/Class02/Class02.ipynb)
+|01|Big Data Ingesting: CSVs, Data frames, and Plots: [Python](/Class01/Class01.ipynb) / [R](/Class01/Class01-R.ipynb)
+|02|ML Models: Linear regression + Validation: [Python](/Class02/Class02.ipynb) / [R](/Class02/Class02-R.ipynb)
 |03|[Big Data Cleaning: Data Transformations](/Class03/Class03.ipynb) (with [Supplemental Work](/Class03/Class03_supplement.ipynb))
 |04|[ML Models: Naïve Bays + Evaluation Metrics](/Class04/Class04.ipynb)
 |05|[Big Data Enrichment: Joining and Grouping data](/Class05/Class05.ipynb)
