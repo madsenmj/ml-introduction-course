@@ -30,7 +30,7 @@ You will need to dig into some of these sources to find data sets that you are i
 |:-:| :-----|
 |01|Big Data Ingesting: CSVs, Data frames, and Plots: [Python](/Class01/Class01.ipynb) / [R](/Class01/Class01-R.ipynb)
 |02|ML Models: Linear regression + Validation: [Python](/Class02/Class02.ipynb) / [R](/Class02/Class02-R.ipynb)
-|03|[Big Data Cleaning: Data Transformations](/Class03/Class03.ipynb) (with [Supplemental Work](/Class03/Class03_supplement.ipynb))
+|03|Big Data Cleaning: Data Transformations [Python](/Class03/Class03.ipynb)/ [R](/Class03/Class03-R.ipynb) (with [Python Supplemental Work](/Class03/Class03_supplement.ipynb))
 |04|[ML Models: Naïve Bays + Evaluation Metrics](/Class04/Class04.ipynb)
 |05|[Big Data Enrichment: Joining and Grouping data](/Class05/Class05.ipynb)
 |06|[ML Models: SVM + Overfitting](/Class06/Class06.ipynb)
