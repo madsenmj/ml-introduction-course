@@ -33,7 +33,7 @@ You will need to dig into some of these sources to find data sets that you are i
 |03|Big Data Cleaning: Data Transformations [Python](/Class03/Class03.ipynb)/ [R](/Class03/Class03-R.ipynb) (with [Python Supplemental Work](/Class03/Class03_supplement.ipynb) or [R Supplemental Work](/Class03/Class03_supplement-R.ipynb))
 |04|ML Models: Naïve Bays + Evaluation Metrics [Python](/Class04/Class04.ipynb) / [R](/Class04/Class04-R.ipynb)
 |05|Big Data Enrichment: Joining and Grouping data [Python](/Class05/Class05.ipynb) / [R](/Class05/Class05-R.ipynb)
-|06|[ML Models: SVM + Overfitting](/Class06/Class06.ipynb)
+|06|ML Models: SVM + Overfitting [Python](/Class06/Class06.ipynb) / [R](/Class06/Class06-R.ipynb)
 |07|[ML Models: Decision Trees](/Class07/Class07.ipynb)
 |08|[ML Techniques: Outliers](/Class08/Class08.ipynb)
 |09|[ML Models: Clustering](/Class09/Class09.ipynb)
