@@ -34,7 +34,7 @@ You will need to dig into some of these sources to find data sets that you are i
 |04|ML Models: Naïve Bays + Evaluation Metrics [Python](/Class04/Class04.ipynb) / [R](/Class04/Class04-R.ipynb)
 |05|Big Data Enrichment: Joining and Grouping data [Python](/Class05/Class05.ipynb) / [R](/Class05/Class05-R.ipynb)
 |06|ML Models: SVM + Overfitting [Python](/Class06/Class06.ipynb) / [R](/Class06/Class06-R.ipynb)
-|07|[ML Models: Decision Trees](/Class07/Class07.ipynb)
+|07|ML Models: Decision Trees [Python](/Class07/Class07.ipynb) / [R](/Class07/Class07-R.ipynb)
 |08|[ML Techniques: Outliers](/Class08/Class08.ipynb)
 |09|[ML Models: Clustering](/Class09/Class09.ipynb)
 |10|[ML Techniques: Feature scaling](/Class10/Class10.ipynb)
