@@ -41,6 +41,7 @@ You will need to dig into some of these sources to find data sets that you are i
 |11|[ML Techniques: PCA](/Class11/Class11.ipynb)
 |12|[ML Models: Logistic Regression](/Class12/Class12.ipynb)
 |13|[ML Models: Neural Networks](/Class13/Class13.ipynb)
+|Appendix 1|Regressions using continuous and categorical features [Python](/Appendix/Categorical_regression_py.ipynb) / [R](/Appendix/Categorical_regression_R.ipynb)
 
 ## The Three Learning Principles
 
