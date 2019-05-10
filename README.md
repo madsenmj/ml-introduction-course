@@ -18,7 +18,8 @@ There is also a final project component to the course. The goal is to join all o
 
 ### Where to get data
 We will spend quite a bit of time looking for public data as we get going in this class. Here are a couple of places to look for data sets to work with:
-* The UCI repository: https://archive.ics.uci.edu/ml/datasets.html
+* The UCI repository: https://archive.ics.uci.edu/ml/index.php
+
 * Kaggle Public Datasets: https://www.kaggle.com/datasets
 * Ceasar's repository: https://github.com/caesar0301/awesome-public-datasets
 
